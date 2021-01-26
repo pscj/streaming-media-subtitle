@@ -15,6 +15,10 @@
 ![screenshot](https://raw.githubusercontent.com/pscj/HBOMax-subtitle/main/setting.png)
 
 ### ChangeLog:
+#### v1.1.1
++ 避免误操作，热键更换为UP+Back (方向键上+返回键)
++ fix 版本号判断错误
+
 #### v1.1.0
 + 添加了disney+平台的支持
 + 修改了字幕样式
