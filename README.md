@@ -15,6 +15,8 @@
 ![screenshot](https://raw.githubusercontent.com/pscj/HBOMax-subtitle/main/setting.png)
 
 ### ChangeLog:
+#### v1.1.2
++ 修改监听端口号，避免冲突
 #### v1.1.1
 + 避免误操作，热键更换为UP+Back (方向键上+返回键)
 + fix 版本号判断错误
