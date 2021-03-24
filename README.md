@@ -15,6 +15,10 @@
 ![screenshot](https://raw.githubusercontent.com/pscj/HBOMax-subtitle/main/setting.png)
 
 ### ChangeLog:
+#### v1.2.0
++ 修改热键为：上＋左
++ 主界面添加字幕设置按钮
++ 添加字幕同步功能，可修改字幕偏移量，前后5秒
 #### v1.1.3
 + fix:读取utf8文件的BOM问题
 #### v1.1.2
