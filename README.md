@@ -15,6 +15,8 @@
 ![screenshot](https://raw.githubusercontent.com/pscj/HBOMax-subtitle/main/setting.png)
 
 ### ChangeLog:
+#### v1.3.0
++ 修改了版本配置，不再需要手动开启窗口指定权限了
 #### v1.2.0
 + 修改字幕设置热键为：方向键上＋方向键左
 + 主界面添加字幕设置按钮
