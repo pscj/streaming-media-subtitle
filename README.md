@@ -5,7 +5,7 @@
 本插件只支持在AndroidTV版本使用，切勿在手机上安装。
 
 支持平台：
-+ HBOMax (50.8.1.240以上版本)　[googleplay](https://play.google.com/store/apps/details?id=com.hbo.hbonow)　[apkmirror](https://www.apkmirror.com/apk/warnermedia-direct-llc/hbo-max-stream-hbo-tv-movies-more/hbo-max-stream-hbo-tv-movies-more-50-8-1-240-release/) 　　
++ HBOMax (50.30.3.265以上版本)　[googleplay](https://play.google.com/store/apps/details?id=com.hbo.hbonow)　[apkmirror](https://www.apkmirror.com/apk/warnermedia-direct-llc/hbo-max-stream-hbo-tv-movies-more/hbo-max-stream-hbo-tv-movies-more-50-8-1-240-release/) 　　
 + Disney+ (1.11.3以上版本)　[googleplay](https://play.google.com/store/apps/details?id=com.disney.disneyplus)　[apkmirror](https://www.apkmirror.com/apk/disney/disney-android-tv/disney-android-tv-1-11-3-release/)
 
 =>[插件操作说明](https://github.com/pscj/HBOMax-subtitle/blob/main/manual.md)<=
@@ -16,7 +16,7 @@
 
 ### ChangeLog:
 #### v1.4.0
-+ 修复了hbomax改版后字幕不可用
++ 修复了hbomax改版后字幕不可用。需要hbomax升级到最新版本。
 #### v1.3.0
 + 修改了版本配置，不再需要手动开启窗口置顶权限了
 + fix 取影片时长崩溃
