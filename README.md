@@ -15,6 +15,8 @@
 ![screenshot](https://raw.githubusercontent.com/pscj/HBOMax-subtitle/main/setting.png)
 
 ### ChangeLog:
+#### v1.4.0
++ 修复了hbomax改版后字幕不可用
 #### v1.3.0
 + 修改了版本配置，不再需要手动开启窗口置顶权限了
 + fix 取影片时长崩溃
