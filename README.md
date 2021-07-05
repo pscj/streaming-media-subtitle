@@ -15,6 +15,8 @@
 ![screenshot](https://raw.githubusercontent.com/pscj/HBOMax-subtitle/main/setting.png)
 
 ### ChangeLog:
+#### v1.4.5
++ fix: 有线网络无法上传字幕的问题
 #### v1.4.0
 + 修复了hbomax改版后字幕不可用。需要hbomax升级到最新版本。
 #### v1.3.0
