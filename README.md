@@ -15,6 +15,8 @@
 ![screenshot](https://raw.githubusercontent.com/pscj/HBOMax-subtitle/main/setting.png)
 
 ### ChangeLog:
+#### v1.5.0
++ 添加字体透明度功能
 #### v1.4.5
 + fix: 有线网络无法上传字幕的问题
 #### v1.4.0
