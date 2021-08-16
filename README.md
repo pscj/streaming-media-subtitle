@@ -15,6 +15,8 @@
 ![screenshot](https://raw.githubusercontent.com/pscj/HBOMax-subtitle/main/setting.png)
 
 ### ChangeLog:
+#### v1.5.5
++ fix disney+改版后不能使用
 #### v1.5.0
 + 添加字体透明度功能
 + bugfix
