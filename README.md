@@ -15,6 +15,8 @@
 ![screenshot](https://raw.githubusercontent.com/pscj/HBOMax-subtitle/main/setting.png)
 
 ### ChangeLog:
+#### v1.5.6
++ fix Hbomax最新版本判断错误
 #### v1.5.5
 + fix disney+改版后不能使用
 #### v1.5.0
