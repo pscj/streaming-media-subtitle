@@ -15,6 +15,8 @@
 ![screenshot](https://raw.githubusercontent.com/pscj/HBOMax-subtitle/main/setting.png)
 
 ### ChangeLog:
+#### v2.0.1
++ bugfix
 #### v2.0.0
 + 添加字幕在线搜索功能(HBOMAX)
 #### v1.5.6
