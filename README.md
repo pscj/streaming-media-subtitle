@@ -17,7 +17,7 @@
 ### ChangeLog:
 
 #### v2.1.0
-fix HBOMax播放剧集时不弹出字幕选择框的问题
++ fix HBOMax播放剧集时不弹出字幕选择框的问题
 #### v2.0.1
 + bugfix
 #### v2.0.0
