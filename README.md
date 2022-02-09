@@ -1,12 +1,10 @@
 # 流媒体外挂中文字幕插件 For AndroidTV 
 
+# HBOMax全新版本52.5.1以后，更换了全新的界面渲染引擎，无法再取到相关播放数据，此项目中止  2020.02.09
+
 本插件为流媒体App添加外挂中文字幕功能，只需要寻找正确的字幕后上传，就可以在观看中使用中文字幕功能了。
 
 本插件只支持在AndroidTV版本使用，切勿在手机上安装。
-
-支持平台：
-+ HBOMax (50.30.3.265以上版本)　[googleplay](https://play.google.com/store/apps/details?id=com.hbo.hbonow)　[apkmirror](https://www.apkmirror.com/apk/warnermedia-direct-llc/hbo-max-stream-hbo-tv-movies-more/hbo-max-stream-hbo-tv-movies-more-50-8-1-240-release/) 　　
-+ Disney+ (1.11.3以上版本)　[googleplay](https://play.google.com/store/apps/details?id=com.disney.disneyplus)　[apkmirror](https://www.apkmirror.com/apk/disney/disney-android-tv/disney-android-tv-1-11-3-release/)
 
 =>[插件操作说明](https://github.com/pscj/HBOMax-subtitle/blob/main/manual.md)<=
 
