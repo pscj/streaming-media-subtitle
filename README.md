@@ -1,10 +1,10 @@
-# 流媒体外挂中文字幕插件 For AndroidTV~~
+# 流媒体外挂中文字幕插件 For AndroidTV
 
-本插件为流媒体App添加外挂中文字幕功能，只需要寻找正确的字幕后上传，就可以在观看中使用中文字幕功能了。~~
+本插件为HBOMax添加外挂中文字幕功能，只需要寻找正确的字幕后上传，就可以在观看中使用中文字幕功能了。
 
-本插件只支持在AndroidTV版本使用，切勿在手机上安装。~~
+本插件只支持在AndroidTV版本使用，切勿在手机上安装。
 
-[插件操作说明](https://github.com/pscj/HBOMax-subtitle/blob/main/manual.md)<=~~
+=> [插件操作说明](https://github.com/pscj/HBOMax-subtitle/blob/main/manual.md)<=
 
 
 ![screenshot](https://raw.githubusercontent.com/pscj/HBOMax-subtitle/main/ww1984_2.jpg)
