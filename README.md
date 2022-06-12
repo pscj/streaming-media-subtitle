@@ -20,5 +20,5 @@
 + 修改了字幕偏移的范围，现在是前后10秒
 
 ### 字幕下载网站
-+[字幕库](http://zmk.pw)
-+[SubHD](https://subhd.tv)
++ [字幕库](http://zmk.pw)
++ [SubHD](https://subhd.tv)
