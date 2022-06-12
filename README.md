@@ -10,6 +10,14 @@
 ![screenshot](https://raw.githubusercontent.com/pscj/HBOMax-subtitle/main/ww1984_2.jpg)
 ![screenshot](https://raw.githubusercontent.com/pscj/HBOMax-subtitle/main/setting.png)
 
+
+### Feature
++ 支持srt ass常用字幕格式
++ 支持电脑上传字幕到电视
++ 支持批量上传字幕文件
++ 支持修改字幕偏移量
+
+
 ### ChangeLogs
 
 #### v3.0.0
