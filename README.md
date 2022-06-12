@@ -9,7 +9,7 @@
 ![screenshot](https://raw.githubusercontent.com/pscj/HBOMax-subtitle/main/setting.png)
 
 
-### Feature
+### Features
 + 支持srt ass常用字幕格式
 + 支持电脑上传字幕到电视
 + 支持批量上传字幕文件
@@ -21,10 +21,10 @@
 ### ChangeLogs
 
 #### v3.0.0
-+ 支持Android高版本
-+ 去掉了Disney+的支持，目前只支持HBOMax
-+ 去掉了自动匹配字幕功能，只支持手动上传
-+ 修改改了设置界面的热键为：双击确认键
++ 适配Android高版本
++ 去掉了Disney+的支持
++ 去掉了自动匹配字幕功能，只支持手动上传。
++ 修改了设置界面的热键为：双击确认键
 + 修改了字幕偏移的范围，现在是前后10秒
 
 ### 字幕下载网站
