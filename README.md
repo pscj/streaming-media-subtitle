@@ -21,6 +21,7 @@
 ### ChangeLogs
 
 #### v3.0.0
++ 重写了整个逻辑适配最新HBOMax app
 + 适配Android高版本
 + 去掉了Disney+的支持
 + 去掉了自动匹配字幕功能，只支持手动上传。
