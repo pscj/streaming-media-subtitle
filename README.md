@@ -20,6 +20,8 @@
 
 ### ChangeLogs
 
+#### v3.0.1
++ fix 全新安装配置文件默认值错误
 #### v3.0.0
 + 重写了整个逻辑适配最新HBOMax app
 + 适配Android高版本
