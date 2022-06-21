@@ -19,7 +19,8 @@
 [插件使用说明](https://github.com/pscj/HBOMax-subtitle/blob/main/manual.md)
 
 ### ChangeLogs
-
+#### v3.2.0
++ 添加了mecool遥控器音量键的支持
 #### v3.1.0
 + 添加时间轴偏移快速调整方法----播放过程中暂停，使用音量键+-进行调整。
 #### v3.0.1
