@@ -3,7 +3,7 @@
 本插件为HBOMax添加外挂中文字幕功能，只需要寻找正确的字幕后上传，就可以在观看中使用中文字幕功能了。
 
 本插件只支持在AndroidTV版本使用，切勿在手机上使用。
-最新版app删除了时间线数据，插件用不了了
+### 最新版app删除了时间线数据，插件用不了了
 
 ### 效果截图
 ![screenshot](https://raw.githubusercontent.com/pscj/HBOMax-subtitle/main/ww1984_2.jpg)
